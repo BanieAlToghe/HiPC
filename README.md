@@ -1,5 +1,9 @@
 # HiPC
-HiPC - Computer Assistant [unsloth self hosted] [claude - code] 
+HiPC - Computer Assistant [unsloth self hosted] [free claude code] Model I'm using is Gemma 4 🥸
+
+<img width="679" height="440" alt="image" src="https://github.com/user-attachments/assets/a60f8dd9-a77d-4b79-9e6e-0648940672f1" />
+
+
 
 
 
