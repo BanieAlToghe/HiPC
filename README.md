@@ -24,3 +24,11 @@ HiPC - Computer Assistant [unsloth self hosted] [free claude code] Model I'm usi
 <img width="1824" height="1004" alt="image" src="https://github.com/user-attachments/assets/87fef21e-a1bb-45cc-ac82-ed690a9fb6d3" />
 </span>
 
+
+<br>
+<br>
+<br>
+
+#we did it 
+
+<img width="1811" height="672" alt="image" src="https://github.com/user-attachments/assets/de7c497b-7990-4828-aca1-75a3a65acc34" />
