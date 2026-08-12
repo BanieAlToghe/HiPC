@@ -20,4 +20,7 @@ HiPC - Computer Assistant [unsloth self hosted] [free claude code] Model I'm usi
 -> (BYOK) Bring your own Keys Friendly just remember to bring the 
 
 <img width="1907" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb3101dd-c5ed-4d36-8f54-f5de270734d8" />
+<span>
+<img width="1824" height="1004" alt="image" src="https://github.com/user-attachments/assets/87fef21e-a1bb-45cc-ac82-ed690a9fb6d3" />
+</span>
 
