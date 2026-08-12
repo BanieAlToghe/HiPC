@@ -12,3 +12,12 @@ HiPC - Computer Assistant [unsloth self hosted] [free claude code] Model I'm usi
 
 <img width="1825" height="799" alt="image" src="https://github.com/user-attachments/assets/2710cb3b-6e14-4bcd-a63c-60694bcce1b9" />
 
+
+
+#GREATSOFT SUPPORT + Claude Code 
+
+--Limited access to the Claude code version (free free version) but the code,
+-> (BYOK) Bring your own Keys Friendly just remember to bring the 
+
+<img width="1907" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb3101dd-c5ed-4d36-8f54-f5de270734d8" />
+
